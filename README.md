@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsgnegrao" alt="itsgnegrao" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsgnegrao&show_icons=true&locale=pt-br" alt="itsgnegrao" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsgnegrao&show_icons=true&locale=en" alt="itsgnegrao" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsgnegrao&show_icons=true&locale=pt-br&layout=compact" alt="itsgnegrao" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsgnegrao&show_icons=true&locale=en&layout=compact" alt="itsgnegrao" /></p>
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
