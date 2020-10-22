@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Gabriel Negrão Silva</h1>
 
-<h3 align="center">Desenvolvedor fullstack tentando se aperfeiçoar em backend com várias linguagens! </h3>
+<h3 align="center">Desenvolvedor fullstack 🤕 tentando se aperfeiçoar em backend com várias linguagens! 👽 </h3>
 
 <p align="left">
 <a href="https://twitter.com/itsg_negrao" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="teste" /></a>
