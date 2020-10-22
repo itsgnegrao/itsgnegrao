@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/itsgnegrao" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="teste" /></a>
 <a href="https://instagram.com/itsg_negrao" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="teste" /></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=itsgnegrao&label=Profile%20views&color=0e75b6&style=flat" alt="itsgnegrao" />
+<img src="https://komarev.com/ghpvc/?username=itsgnegrao&label=Profile%20views&color=0e75b6&style=flat-square" alt="itsgnegrao" />
 
 <p align="left"> </p>
 
