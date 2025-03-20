@@ -1,43 +1,66 @@
-<h1 align="center">Olá 👋, Eu sou Gabriel Negrão Silva</h1>
+<div align="center">
+    <h1>🚀 Olá, eu sou Gabriel Negrão Silva! 👋</h1>
+    <h3>💻 Desenvolvedor Backend Sênior | Especialista em Arquiteturas Modernas e Eficiência em Código</h3>
+</div>
 
-<h3 align="center">Desenvolvedor fullstack 🤕 tentando se aperfeiçoar em backend com várias linguagens! </h3>
+</br>
 
-<p align="left">
-<a href="https://linkedin.com/in/itsgnegrao" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="teste" /></a>
-<a href="https://instagram.com/itsg_negrao" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="teste" /></a>
+<div align="center">
+    <h2>🧐 Sobre Mim</h2>
+    <p>
+    Com uma sólida experiência em desenvolvimento de software, especializei-me no backend utilizando <strong>Java</strong> e o ecossistema <strong>Spring</strong>. Minha abordagem é orientada por arquiteturas modernas, como <strong>Clean Architecture</strong>, <strong>Arquitetura Hexagonal</strong> e <strong>Domain-Driven Design (DDD)</strong>, garantindo soluções robustas e escaláveis. Tenho atuado em diversos cenários, desde <strong>Microservices</strong> até <strong>Monólitos</strong>, e estou familiarizado com padrões como <strong>Event-Driven</strong> e <strong>SAGA</strong>, sempre aplicando as melhores práticas de design e metodologias ágeis.
 </p>
-<img src="https://komarev.com/ghpvc/?username=itsgnegrao&label=Profile%20views&color=0e75b6&style=flat-square" alt="itsgnegrao" />
-
-<p align="left"> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsgnegrao" alt="itsgnegrao" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsgnegrao&show_icons=true&locale=en" alt="itsgnegrao" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsgnegrao&show_icons=true&locale=en&layout=compact" alt="itsgnegrao" /></p>
-
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p > 
-<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="c" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://dbeaver.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png?20210313151619" alt="Dbeaver" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  
-  
+<p>
+    Além do foco em backend, possuo uma visão abrangente do desenvolvimento de software, com conhecimentos sólidos em frontend, infraestrutura e práticas de DevOps. Sou entusiasta de programação embarcada, especialmente com plataformas como <strong>Arduino</strong> e <strong>ESP8266</strong>, e estou constantemente em busca de desafios que envolvam alta performance e excelência em arquitetura de software.
 </p>
+
+</div>
+
+</br>
+
+<div align="center">
+    <h2>🚀 Tecnologias & Ferramentas</h2>
+    <div align="left">
+        <div>
+            <h3>🛠️ Linguagens e Frameworks:</h3>
+            <div>
+                <img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,angular,react,vue" alt="Linguagens e Frameworks" />
+            </div>
+        </div>
+        <div>
+            <h3>💾 Bancos de Dados:</h3>
+            <div>
+                <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bancos de Dados"/>
+            </div>
+        </div>
+        <div>
+            <h3>⚙️ CI/CD & Infraestrutura:</h3>
+            <div>
+                <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,gitlab,aws,firebase,grafana,prometheus" alt="CI/CD & Infraestrutura" />
+            </div>
+        </div>
+    </div>
+</div>
+
+</br>
+
+<div align="center">
+    <h2>📊 Estatísticas</h2>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=itsgnegrao&show_icons=true&theme=dark&locale=pt-br" alt="GitHub Stats" height="150px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgnegrao&layout=compact&theme=dark&locale=pt-br" alt="Top Languages" height="150px" />
+    </div>
+</div>
+
+</br>
+
+<div align="center">
+    <h2>📬 Entre em Contato</h2>
+    <p>Se quiser bater um papo sobre tecnologia, projetos ou oportunidades, me chame no LinkedIn! 🚀</p>
+    <a href="https://linkedin.com/in/itsgnegrao" target="blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <div align="right">
+        <img src="https://komarev.com/ghpvc/?username=itsgnegrao&label=Visualizações&color=0e75b6&style=flat-square" alt="Profile Views" />
+    </div>
+</div>
