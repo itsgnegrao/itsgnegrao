@@ -1,6 +1,6 @@
 <div align="center">
     <h1>🚀 Olá, eu sou Gabriel Negrão Silva! 👋</h1>
-    <h3>💻 Desenvolvedor Backend Sênior | Especialista em Arquiteturas Modernas e Eficiência em Código</h3>
+    <h3>💻 Desenvolvedor Backend Sênior</h3>
 </div>
 
 </br>
