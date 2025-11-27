@@ -8,10 +8,10 @@
 <div align="center">
     <h2>🧐 Sobre Mim</h2>
     <p>
-    Com uma sólida experiência em desenvolvimento de software, especializei-me no backend utilizando <strong>Java</strong> e o ecossistema <strong>Spring</strong>. Minha abordagem é orientada por arquiteturas modernas, como <strong>Clean Architecture</strong>, <strong>Arquitetura Hexagonal</strong> e <strong>Domain-Driven Design (DDD)</strong>, garantindo soluções robustas e escaláveis. Tenho atuado em diversos cenários, desde <strong>Microservices</strong> até <strong>Monólitos</strong>, e estou familiarizado com padrões como <strong>Event-Driven</strong> e <strong>SAGA</strong>, sempre aplicando as melhores práticas de design e metodologias ágeis.
+    Sou um Desenvolvedor Full Stack com mais de 8 anos de experiência em desenvolvimento de software, especializado em Back-End com forte atuação em microservices. Utilizo arquiteturas como hexagonal, limpa e DDD, aplicando padrões de codificação e metodologias ágeis. Além de Java, tenho conhecimento em diversas outras Stacks, linguagens e tecnologias (JavaScript, TypeScript, Python, C++, C#, SQL). Com uma base sólida em Ciência da Computação, tenho facilidade para compreender e aplicar conceitos complexos de forma prática e estratégica.
 </p>
 <p>
-    Além do foco em backend, possuo uma visão abrangente do desenvolvimento de software, com conhecimentos sólidos em frontend, infraestrutura e práticas de DevOps. Sou entusiasta de programação embarcada, especialmente com plataformas como <strong>Arduino</strong> e <strong>ESP8266</strong>, e estou constantemente em busca de desafios que envolvam alta performance e excelência em arquitetura de software.
+    Trabalho bem em equipe, valorizo a troca de conhecimento e me dedico a construir soluções escaláveis, bem estruturadas e de fácil manutenção. Analiso cada desafio de forma crítica, buscando sempre a melhor abordagem para garantir entregas eficientes e desenvolvimento de qualidade. Minha rápida curva de aprendizado me permite assimilar novas tecnologias e metodologias com agilidade, mantendo-me alinhado às melhores práticas do mercado.
 </p>
 
 </div>
